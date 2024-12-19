@@ -16,7 +16,13 @@ PRIYA consists of 60 low-fidelity simulations and 3 high-fidelity simulations, t
 
 .. raw:: html
 
-   <p>PRIYA's Lyman Alpha Forest:</p>
+   <p>PRIYA's View of Universe:</p>
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/FVe9tUBPXIs?si=j4nkE-oQ3ttPfkGf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   <br><br><br>
+
+.. raw:: html
+
+   <p>Simulating Lyman Alpha Forest in PRIYA:</p>
    <iframe width="560" height="315" src="https://www.youtube.com/embed/xBZLH14Qzyo?si=50RTsRvlg-BqlfqJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
    <br><br><br>
 
