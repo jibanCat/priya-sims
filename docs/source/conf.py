@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'PRIYA'
+copyright = '2024, PRIYA sims'
+author = 'Ming-Feng Ho'
 
 release = '0.1'
 version = '0.1.0'
