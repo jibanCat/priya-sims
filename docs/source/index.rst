@@ -48,6 +48,7 @@ Contents
 
 .. toctree::
 
-   science
    publications
    data
+   .. citation
+   .. science

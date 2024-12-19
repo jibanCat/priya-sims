@@ -6,6 +6,7 @@ Data Access
 
 PRIYA data is stored at the UCR HPC cluster and TACC's Frontera supercomputer. We release part of the data to the public via following ways, and we are working on releasing more data in the future.
 
+(working on the page ...)
 
 
 Link 
